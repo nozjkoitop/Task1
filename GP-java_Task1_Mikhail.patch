@@ -1,0 +1,26 @@
+From bce2ee33e52e188567d992d7dd33b1736aec9bd9 Mon Sep 17 00:00:00 2001
+From: nozjkoitop <nozjkoitop@mail.ru>
+Date: Mon, 7 Feb 2022 12:28:56 +0300
+Subject: [PATCH] git add --all && git commit -m "Task1"
+
+---
+ .idea/vcs.xml | 6 ++++++
+ 1 file changed, 6 insertions(+)
+ create mode 100644 .idea/vcs.xml
+
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+index 0000000..94a25f7
+--- /dev/null
++++ b/.idea/vcs.xml
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+-- 
+2.33.1.windows.1
+
